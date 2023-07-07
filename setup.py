@@ -5,11 +5,11 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 setup(
     name='fast_boltzmann',
-    version='0.0.1',
+    version='1.0.0',
     url='https://github.com/geoye/fast_boltzmann',
     license='MIT',
-    author='Yuxuan YE; Xinghua Cheng',
-    author_email='yuxuanye145@gmail.com; cxh9791156936@gmail.com',
+    author='Yuxuan YE<yuxuanye145@gmail.com>, Xinghua Cheng<cxh9791156936@gmail.com>',
+    author_email='yuxuanye145@gmail.com, cxh9791156936@gmail.com',
     description='`fast_boltzmann` is a Python package developed for the fast computation of the Boltzmann Entropy '
                 '(also known as configurational entropy) for a two-dimensional numerical or nominal data array.',
     long_description=long_description,
